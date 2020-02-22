@@ -27,7 +27,7 @@
 
 void viewerOneOff(pcl::visualization::PCLVisualizer& viewer)
 {
-    viewer.setBackgroundColor(0,0,1);
+    viewer.setBackgroundColor(0, 0, 1);
     viewer.addCoordinateSystem();
 }
 
